@@ -131,7 +131,7 @@ function overview() {
   const x = currentCase();
   return `<section class="story-intro">
     <p class="eyebrow">PATIENT SUPPORT & DEVICE OPERATIONS · A CONCEPT BY JOE HU</p>
-    <h1>Support that leaves more room for life.</h1>
+    <h1>Care in Every Detail</h1>
     <p class="lead">One detail in Janie’s story stayed with me: being able to take her children somewhere without arranging help first. That’s the kind of everyday freedom that makes NeuroPace’s work meaningful to me. CareOps explores my part in supporting it: listening closely, then making sure the next step actually happens.</p>
     <a class="source-note" href="https://www.neuropace.com/stories/janies-story/" target="_blank" rel="noopener">Read Janie’s story on NeuroPace’s site ↗</a>
     <p class="story-disclosure">Three interactive, fictional cases informed by public NeuroPace patient resources and stories. Individual clinical outcomes vary. No real patient information, clinical triage or medical advice.</p>
